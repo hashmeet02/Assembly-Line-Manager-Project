@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------
+REFLECTION
+
+Name: HASHMEET SINGH SAINI
+Seneca Student ID: 153070214
+Seneca email: hsaini28@myseneca.ca
+Date of completion: 20th November 2022
+
+I confirm that I am the only author of this file
+and the content was created entirely by me.
+-----------------------------------------------------------------------------
+The whole OOP 345 course regarding Object Oriented Programming was highly informative and insightful to develop coding skills in C++. Especially the finally project helped me a lot to sum up whatever I have learnt not only in this semester, but the previous semesters as well. But most importantly of all, the guidance of my prof, Michael Huang was exactly what I needed to enhance my coding style. The workshopd did hurt my grades a little in the beginning, but the detailed feedback from the prof helped me improve my understanding for the course dramatically.
